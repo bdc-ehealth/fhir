@@ -3,7 +3,7 @@ Alias: $m49.htm = http://unstats.un.org/unsd/methods/m49/m49.htm
 Instance: be-model-medication-dispense
 InstanceOf: StructureDefinition
 Usage: #definition
-* url = "https://www.hl7belgium.org/fhir/StructureDefinition/be-model-medication-dispense"
+* url = "https://www.ehealth.fgov.be/standards/fhir/StructureDefinition/be-model-medication-dispense"
 * version = "0.2.0"
 * name = "BeModelMedicationDispense"
 * status = #draft
