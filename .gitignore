@@ -23,3 +23,5 @@ Thumbs.db
 ################
 *.bak
 /www
+fhir-ig-history-template/
+ig-registry/
